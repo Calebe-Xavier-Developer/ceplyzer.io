@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ceplyzer.io/static/js/main.504907cf.chunk.js",
+    "main.js.map": "/ceplyzer.io/static/js/main.504907cf.chunk.js.map",
+    "runtime-main.js": "/ceplyzer.io/static/js/runtime-main.2edd9faa.js",
+    "runtime-main.js.map": "/ceplyzer.io/static/js/runtime-main.2edd9faa.js.map",
+    "static/js/2.a2786210.chunk.js": "/ceplyzer.io/static/js/2.a2786210.chunk.js",
+    "static/js/2.a2786210.chunk.js.map": "/ceplyzer.io/static/js/2.a2786210.chunk.js.map",
+    "static/js/3.f70db610.chunk.js": "/ceplyzer.io/static/js/3.f70db610.chunk.js",
+    "static/js/3.f70db610.chunk.js.map": "/ceplyzer.io/static/js/3.f70db610.chunk.js.map",
+    "index.html": "/ceplyzer.io/index.html",
+    "static/js/2.a2786210.chunk.js.LICENSE.txt": "/ceplyzer.io/static/js/2.a2786210.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2edd9faa.js",
+    "static/js/2.a2786210.chunk.js",
+    "static/js/main.504907cf.chunk.js"
+  ]
+}
