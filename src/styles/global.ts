@@ -8,14 +8,17 @@ export default createGlobalStyle`
   }
 
   body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 100vw;
     height: 100vh;
 
-    background-color: #f5f5f5;
-    font-size: 14px;
+    background: linear-gradient(45deg, #3de2e2, white, #d82bad);
+    font-size: 20px;
     color: #333;
 
-    font-family: 'Century', sans-serif;
+    font-family: sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }

@@ -1,9 +1,11 @@
-import React from 'react'
+import React from 'react';
+import SearchBar from '../../components/SearchBar';
+import { ContainerAddress } from './style';
 
 export const SearchPage = () => {
   return (
-    <div>
-      Alohaaaaaa
-    </div>
+    <ContainerAddress>
+      <SearchBar />
+    </ContainerAddress>
   )
 }
