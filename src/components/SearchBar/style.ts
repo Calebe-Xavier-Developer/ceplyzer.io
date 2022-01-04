@@ -10,6 +10,7 @@ export const NavSearchBar = styled.div`
   align-items: center;
   justify-content: center;
   width: 80%;
+  min-height: 150px;
   height: auto;
   border-radius: 15px;
   padding: 15px;
@@ -44,12 +45,13 @@ export const LabelInput = styled.label`
 
 export const InputSearch = styled.input`
   width: 50%;
+  height: 40px;
   border: none;
-  padding: 5px;
+  padding: 10px;
   margin-top: 10px;
   border-radius: 4px;
   outline: none;
-  font-size: 12px;
+  font-size: 16px;
   
 
   &:focus{
