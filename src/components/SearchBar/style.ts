@@ -14,9 +14,9 @@ export const NavSearchBar = styled.div`
   height: auto;
   border-radius: 15px;
   padding: 15px;
-  background: linear-gradient(21deg, #72ffc5, #72e5ff, #ff72fb);
+  background: linear-gradient(21deg, #00db82, #12d4ff, #f302eb);
   font-size: 20px;
-  color: #fff;
+  color: #000000;
 `;
 
 export const DivInputs = styled.div`
@@ -27,7 +27,7 @@ export const DivInputs = styled.div`
   width: 100%;
   height: auto;
   font-size: 20px;
-  color: #fff;
+  color: #000000;
 
   p{
     padding-top: 18px;
@@ -40,7 +40,7 @@ export const LabelInput = styled.label`
   text-align: left;
   font-size: 12px;
   font-weight: normal;
-  color: #fff;
+  color: #000000;
 `;
 
 export const InputSearch = styled.input`
