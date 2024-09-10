@@ -14,9 +14,8 @@ export default createGlobalStyle`
     width: 100vw;
     height: 100vh;
 
-    background: linear-gradient(45deg, #3de2e2, white, #d82bad);
+    background: linear-gradient(180deg, #3de2e2, white, #d82bad);
     font-size: 20px;
-    color: #333;
 
     font-family: sans-serif;
     -webkit-font-smoothing: antialiased;
