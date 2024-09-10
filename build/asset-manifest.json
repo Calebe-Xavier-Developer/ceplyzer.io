@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/ceplyzer.io/static/js/main.cce449de.chunk.js",
+    "main.js.map": "/ceplyzer.io/static/js/main.cce449de.chunk.js.map",
+    "runtime~main.js": "/ceplyzer.io/static/js/runtime~main.47cd9795.js",
+    "runtime~main.js.map": "/ceplyzer.io/static/js/runtime~main.47cd9795.js.map",
+    "static/js/2.9ac9eaa0.chunk.js": "/ceplyzer.io/static/js/2.9ac9eaa0.chunk.js",
+    "static/js/2.9ac9eaa0.chunk.js.map": "/ceplyzer.io/static/js/2.9ac9eaa0.chunk.js.map",
+    "static/js/3.32c3e341.chunk.js": "/ceplyzer.io/static/js/3.32c3e341.chunk.js",
+    "static/js/3.32c3e341.chunk.js.map": "/ceplyzer.io/static/js/3.32c3e341.chunk.js.map",
+    "index.html": "/ceplyzer.io/index.html",
+    "precache-manifest.b6a80d82bd4907b272af8b956c17d767.js": "/ceplyzer.io/precache-manifest.b6a80d82bd4907b272af8b956c17d767.js",
+    "service-worker.js": "/ceplyzer.io/service-worker.js"
+  }
+}
